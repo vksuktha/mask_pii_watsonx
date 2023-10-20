@@ -3,6 +3,7 @@
 # Changes tested on workbench/BAM and not dataplatform
 
 GENAI_API=
+
 GENAI_KEY=
 
 
